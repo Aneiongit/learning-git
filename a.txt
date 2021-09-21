@@ -1,1 +1,2 @@
-To jest plik tekstowy
+To jest zmiana z brancha A
+A teraz dodajemy kolejna linijke tekstu.
