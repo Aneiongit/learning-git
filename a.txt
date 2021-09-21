@@ -1,1 +1,3 @@
-To jest zmiana pliku na branch A
+To jest zmiana z brancha A
+A teraz dodajemy kolejna linijke tekstu.
+
