@@ -1,1 +1,1 @@
-To jest plik tekstowy
+To jest zmiana pliku na branch A
